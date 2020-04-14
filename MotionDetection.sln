@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotionDetection", "..\..\..\..\..\..\..\Emgu\emgucv-windesktop 4.2.0.3662\Emgu.CV.Example\MotionDetection\MotionDetection.csproj", "{3EC66D5C-1B05-4B4F-BB13-82BD76C992EE}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\..\..\..\..\..\..\Emgu\emgucv-windesktop 4.2.0.3662\Emgu.CV.Runtime\Windows\Emgu.CV.Runtime.Windows.projitems*{3ec66d5c-1b05-4b4f-bb13-82bd76c992ee}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC66D5C-1B05-4B4F-BB13-82BD76C992EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC66D5C-1B05-4B4F-BB13-82BD76C992EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC66D5C-1B05-4B4F-BB13-82BD76C992EE}.Debug|x64.ActiveCfg = Debug|x64
+		{3EC66D5C-1B05-4B4F-BB13-82BD76C992EE}.Debug|x64.Build.0 = Debug|x64
+		{3EC66D5C-1B05-4B4F-BB13-82BD76C992EE}.Debug|x86.ActiveCfg = Debug|x86
+		{3EC66D5C-1B05-4B4F-BB13-82BD76C992EE}.Debug|x86.Build.0 = Debug|x86
+		{3EC66D5C-1B05-4B4F-BB13-82BD76C992EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC66D5C-1B05-4B4F-BB13-82BD76C992EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC66D5C-1B05-4B4F-BB13-82BD76C992EE}.Release|x64.ActiveCfg = Release|x64
+		{3EC66D5C-1B05-4B4F-BB13-82BD76C992EE}.Release|x64.Build.0 = Release|x64
+		{3EC66D5C-1B05-4B4F-BB13-82BD76C992EE}.Release|x86.ActiveCfg = Release|x86
+		{3EC66D5C-1B05-4B4F-BB13-82BD76C992EE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A0A41A6-04E7-432A-84E7-59FAC9B357A3}
+	EndGlobalSection
+EndGlobal
